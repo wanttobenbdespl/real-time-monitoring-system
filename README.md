@@ -11,5 +11,4 @@ Image Detection: Upload images and detect objects with bounding boxes and labels
 Requirements
 
 Python 3.x PyQt5 OpenCV Torch and torchvision YOLOv5 model files
-[图片]
-[图片]
+
